@@ -1,0 +1,1 @@
+A = Task7ImageRotation(imread('T7Cross.jpg'),[128,256],45);

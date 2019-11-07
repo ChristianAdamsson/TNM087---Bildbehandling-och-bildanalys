@@ -1,0 +1,1 @@
+A = BasicImageInfo('T1AndrewTemplate.tif', 3);
